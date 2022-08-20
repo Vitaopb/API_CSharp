@@ -1,0 +1,12 @@
+C:\Users\vic_g\Documents\projects\APIs_dotnet\heros\hero.Core\bin\Debug\net6.0\hero.Core.deps.json
+C:\Users\vic_g\Documents\projects\APIs_dotnet\heros\hero.Core\bin\Debug\net6.0\hero.Core.dll
+C:\Users\vic_g\Documents\projects\APIs_dotnet\heros\hero.Core\bin\Debug\net6.0\hero.Core.pdb
+C:\Users\vic_g\Documents\projects\APIs_dotnet\heros\hero.Core\obj\Debug\net6.0\hero.Core.csproj.AssemblyReference.cache
+C:\Users\vic_g\Documents\projects\APIs_dotnet\heros\hero.Core\obj\Debug\net6.0\hero.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vic_g\Documents\projects\APIs_dotnet\heros\hero.Core\obj\Debug\net6.0\hero.Core.AssemblyInfoInputs.cache
+C:\Users\vic_g\Documents\projects\APIs_dotnet\heros\hero.Core\obj\Debug\net6.0\hero.Core.AssemblyInfo.cs
+C:\Users\vic_g\Documents\projects\APIs_dotnet\heros\hero.Core\obj\Debug\net6.0\hero.Core.csproj.CoreCompileInputs.cache
+C:\Users\vic_g\Documents\projects\APIs_dotnet\heros\hero.Core\obj\Debug\net6.0\hero.Core.dll
+C:\Users\vic_g\Documents\projects\APIs_dotnet\heros\hero.Core\obj\Debug\net6.0\refint\hero.Core.dll
+C:\Users\vic_g\Documents\projects\APIs_dotnet\heros\hero.Core\obj\Debug\net6.0\hero.Core.pdb
+C:\Users\vic_g\Documents\projects\APIs_dotnet\heros\hero.Core\obj\Debug\net6.0\ref\hero.Core.dll
